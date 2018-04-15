@@ -1,12 +1,12 @@
-kszaweb\config\WebSecurityConfig.class
 kszaweb\service\SecurityService.class
 kszaweb\service\UserDetailsServiceImpl.class
+kszaweb\WebApplication.class
+kszaweb\WebSecurityConfig.class
 kszaweb\validator\UserValidator.class
 kszaweb\service\UserService.class
 kszaweb\model\User.class
 kszaweb\service\SecurityServiceImpl.class
 kszaweb\repository\UserRepository.class
-kszaweb\Application.class
 kszaweb\repository\RoleRepository.class
 kszaweb\service\UserServiceImpl.class
 kszaweb\web\UserController.class
