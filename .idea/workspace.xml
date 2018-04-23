@@ -2,106 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14112b05-3c34-4ac3-82c6-1bc0e3829c1e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/welcome.jsp" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_196.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_8_5_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_api_8_5_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_el_api_8_5_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jasper_8_5_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jasper_el_8_5_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jsp_api_8_5_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_servlet_api_8_5_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_util_8_5_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_util_scan_8_5_23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_1_5_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_2_3_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_2_3_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_4_2_3_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_2_3_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_13_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_13_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_13_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_13_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_13_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/kszaweb.iml" afterPath="$PROJECT_DIR$/kszaweb.iml" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kszaweb/Application.java" afterPath="$PROJECT_DIR$/src/main/java/kszaweb/WebApplication.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kszaweb/config/WebSecurityConfig.java" afterPath="$PROJECT_DIR$/src/main/java/kszaweb/WebSecurityConfig.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kszaweb/repository/UserRepository.java" afterPath="$PROJECT_DIR$/src/main/java/kszaweb/repository/UserRepository.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kszaweb/service/UserDetailsServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/kszaweb/service/UserDetailsServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kszaweb/WebApplication.java" afterPath="$PROJECT_DIR$/src/main/java/kszaweb/WebApplication.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kszaweb/WebSecurityConfig.java" afterPath="$PROJECT_DIR$/src/main/java/kszaweb/WebSecurityConfig.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kszaweb/service/SecurityService.java" afterPath="$PROJECT_DIR$/src/main/java/kszaweb/service/SecurityService.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kszaweb/service/SecurityServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/kszaweb/service/SecurityServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kszaweb/service/UserService.java" afterPath="$PROJECT_DIR$/src/main/java/kszaweb/service/UserService.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/kszaweb/service/UserServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/kszaweb/service/UserServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Hello.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Home.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Login.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" afterPath="$PROJECT_DIR$/target/classes/application.properties" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kszaweb/Application.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kszaweb/config/WebSecurityConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kszaweb/validator/UserValidator.java" afterPath="$PROJECT_DIR$/src/main/java/kszaweb/validator/UserValidator.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kszaweb/WebApplication.class" afterPath="$PROJECT_DIR$/target/classes/kszaweb/WebApplication.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kszaweb/WebSecurityConfig.class" afterPath="$PROJECT_DIR$/target/classes/kszaweb/WebSecurityConfig.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kszaweb/model/Role.class" afterPath="$PROJECT_DIR$/target/classes/kszaweb/model/Role.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kszaweb/model/User.class" afterPath="$PROJECT_DIR$/target/classes/kszaweb/model/User.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kszaweb/repository/RoleRepository.class" afterPath="$PROJECT_DIR$/target/classes/kszaweb/repository/RoleRepository.class" />
       <change beforePath="$PROJECT_DIR$/target/classes/kszaweb/repository/UserRepository.class" afterPath="$PROJECT_DIR$/target/classes/kszaweb/repository/UserRepository.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kszaweb/service/SecurityService.class" afterPath="$PROJECT_DIR$/target/classes/kszaweb/service/SecurityService.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kszaweb/service/SecurityServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/kszaweb/service/SecurityServiceImpl.class" />
       <change beforePath="$PROJECT_DIR$/target/classes/kszaweb/service/UserDetailsServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/kszaweb/service/UserDetailsServiceImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kszaweb/service/UserService.class" afterPath="$PROJECT_DIR$/target/classes/kszaweb/service/UserService.class" />
       <change beforePath="$PROJECT_DIR$/target/classes/kszaweb/service/UserServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/kszaweb/service/UserServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/Hello.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/Home.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/Login.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0.war" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0.war.original" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/application.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/kszaweb/Application.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/kszaweb/config/WebSecurityConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/kszaweb/model/Role.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/kszaweb/model/User.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/kszaweb/repository/RoleRepository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/kszaweb/repository/UserRepository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/kszaweb/service/SecurityService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/kszaweb/service/SecurityServiceImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/kszaweb/service/UserDetailsServiceImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/kszaweb/service/UserService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/kszaweb/service/UserServiceImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/kszaweb/validator/UserValidator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/kszaweb/web/UserController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/templates/Hello.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/templates/Home.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/templates/Login.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/classes/validation.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/antlr-2.7.7.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/aspectjweaver-1.8.13.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/dom4j-1.6.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/ecj-3.12.3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/ecj-4.6.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/h2-1.4.196.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/hibernate-core-5.0.12.Final.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/hibernate-entitymanager-5.0.12.Final.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/jandex-2.0.0.Final.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/javassist-3.21.0-GA.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/javax.transaction-api-1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/jboss-logging-3.3.1.Final.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/jcl-over-slf4j-1.7.25.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/jul-to-slf4j-1.7.25.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/log4j-over-slf4j-1.7.25.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/logback-classic-1.1.11.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/logback-core-1.1.11.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/slf4j-api-1.7.25.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/snakeyaml-1.17.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-aop-4.3.13.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-aspects-4.3.13.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-beans-4.3.13.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-boot-1.5.9.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-boot-autoconfigure-1.5.9.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-boot-starter-1.5.9.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-boot-starter-aop-1.5.9.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-boot-starter-data-jpa-1.5.9.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-boot-starter-jdbc-1.5.9.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-boot-starter-logging-1.5.9.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-boot-starter-security-1.5.9.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-boot-starter-tomcat-1.5.9.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-context-4.3.13.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-core-4.3.13.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-data-commons-1.13.9.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-data-jpa-1.11.9.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-expression-4.3.13.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-jdbc-4.3.13.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-orm-4.3.13.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-security-config-4.2.3.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-security-core-4.2.3.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-security-web-4.2.3.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-tx-4.3.13.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/spring-web-4.3.13.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/tomcat-annotations-api-8.5.23.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/tomcat-embed-core-8.5.23.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/tomcat-embed-el-8.5.23.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/tomcat-embed-jasper-8.5.23.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/tomcat-embed-websocket-8.5.23.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/tomcat-jdbc-8.5.23.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/kszaweb-0.1.0/WEB-INF/lib/tomcat-juli-8.5.23.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kszaweb/validator/UserValidator.class" afterPath="$PROJECT_DIR$/target/classes/kszaweb/validator/UserValidator.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kszaweb/web/UserController.class" afterPath="$PROJECT_DIR$/target/classes/kszaweb/web/UserController.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -114,63 +102,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Role.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/model/Role.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="welcome.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/welcome.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="7" lean-forward="false" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="UserDetailsServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/service/UserDetailsServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="136">
               <caret line="24" column="64" lean-forward="false" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/repository/UserRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -179,28 +125,40 @@
       <file leaf-file-name="SecurityServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/service/SecurityServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="198">
+              <caret line="23" column="98" lean-forward="false" selection-start-line="23" selection-start-column="98" selection-end-line="23" selection-end-column="98" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebSecurityConfig.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/WebSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SecurityService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/service/SecurityService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/web/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/model/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-148">
-              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="-165">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -211,8 +169,30 @@
       <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/service/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="18" column="56" lean-forward="false" selection-start-line="18" selection-start-column="56" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="243">
+              <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserValidator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/validator/UserValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-40">
+              <caret line="23" column="82" lean-forward="true" selection-start-line="23" selection-start-column="82" selection-end-line="23" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -248,7 +228,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/resources/templates/Home.html" />
         <option value="$PROJECT_DIR$/src/main/java/kszaweb/MvcConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kszaweb/WebSecurityConfig.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/Login.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/Hello.html" />
         <option value="$PROJECT_DIR$/src/main/java/kszaweb/model/CacheConfigDev.java" />
@@ -267,26 +246,28 @@
         <option value="$PROJECT_DIR$/src/main/java/kszaweb/model/Role.java" />
         <option value="$PROJECT_DIR$/src/main/java/kszaweb/model/repository/UserRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/kszaweb/model/repository/RoleRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kszaweb/service/SecurityService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kszaweb/service/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kszaweb/service/SecurityServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/resources/validation.properties" />
         <option value="$PROJECT_DIR$/src/main/java/kszaweb/model/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kszaweb/validator/UserValidator.java" />
         <option value="$PROJECT_DIR$/src/main/java/kszaweb/web/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/kszaweb/Application.java" />
         <option value="$PROJECT_DIR$/src/test/java/kszaweb/ApplicationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/kszaweb/repository/UserRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/kszaweb/service/UserDetailsServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kszaweb/service/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/Login.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/registration.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/welcome.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/css/common.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/registration.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/kszaweb/config/WebSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/kszaweb/WebApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/kszaweb/service/SecurityService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kszaweb/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kszaweb/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kszaweb/validator/UserValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kszaweb/service/SecurityServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kszaweb/WebSecurityConfig.java" />
       </list>
     </option>
   </component>
@@ -296,6 +277,12 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -344,38 +331,65 @@
               <item name="kszaweb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kszaweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="kszaweb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kszaweb" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kszaweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="kszaweb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kszaweb" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kszaweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="kszaweb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kszaweb" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kszaweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kszaweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kszaweb" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kszaweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kszaweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kszaweb" type="462c0819:PsiDirectoryNode" />
+              <item name="validator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kszaweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kszaweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kszaweb" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
@@ -388,11 +402,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="xpath.settings" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
   </component>
   <component name="RecentsManager">
@@ -587,25 +603,25 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3580247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34104937" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34104937" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26096824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39940387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -617,14 +633,16 @@
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="kszaweb" type="b2602c69:ProjectViewProjectNode" />
+        <item name="kszaweb" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/service/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/validation.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -636,7 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -644,7 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -653,7 +669,7 @@
         <state relative-caret-position="136">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -670,7 +686,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="54" column="25" lean-forward="false" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -678,9 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -696,9 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,9 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -742,20 +751,12 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/Login.html" />
     <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/control/WebCotroller.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/model/config/DevMvcConfig.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/repository/RoleRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/model/config/DevWebSecurityConfig.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/kszaweb/ApplicationTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,39 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/WebApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/service/SecurityService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/validator/UserValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-103">
-          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -803,7 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -811,39 +778,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="57" lean-forward="false" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/repository/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-148">
-          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/model/Role.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="102">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -855,30 +795,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24667">
           <caret line="1451" column="12" lean-forward="false" selection-start-line="1451" selection-start-column="12" selection-end-line="1451" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/service/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="18" column="56" lean-forward="false" selection-start-line="18" selection-start-column="56" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -899,26 +822,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/WebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-686">
+          <caret line="116" column="21" lean-forward="false" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/repository/RoleRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/service/SecurityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/web/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/service/UserDetailsServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="136">
           <caret line="24" column="64" lean-forward="false" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/validator/UserValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="23" column="82" lean-forward="true" selection-start-line="23" selection-start-column="82" selection-end-line="23" selection-end-column="82" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/service/SecurityServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="198">
+          <caret line="23" column="98" lean-forward="false" selection-start-line="23" selection-start-column="98" selection-end-line="23" selection-end-column="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.4.RELEASE/spring-security-config-5.0.4.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="30" column="77" lean-forward="false" selection-start-line="30" selection-start-column="77" selection-end-line="30" selection-end-column="77" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/web/UserController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kszaweb/WebSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        <state relative-caret-position="11">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
